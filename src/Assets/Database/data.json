@@ -1,0 +1,153 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "id": "ecb4",
+      "name": "Girls"
+    },
+    {
+      "id": "d335",
+      "name": "Boys"
+    },
+    {
+      "id": "2c62",
+      "name": "Womens"
+    },
+    {
+      "id": "460d",
+      "name": "Mens"
+    },
+    {
+      "id": "9f6a",
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "id": "a3eb",
+      "name": "T-Shirts"
+    },
+    {
+      "id": "739c",
+      "name": "Jeans"
+    },
+    {
+      "id": "2c6b",
+      "name": "Formal Shirts"
+    },
+    {
+      "id": "0839",
+      "name": "Casual Shirts"
+    },
+    {
+      "id": "c633",
+      "name": "Formal Trousers"
+    },
+    {
+      "id": "9948",
+      "name": "Casual Trousers"
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "id": "dcbf",
+      "name": "Allen Solly"
+    },
+    {
+      "id": "ca69",
+      "name": "HERE&NOW"
+    },
+    {
+      "id": "dda8",
+      "name": "Mast & Harbour"
+    },
+    {
+      "id": "d15f",
+      "name": "VAN HEUSEN"
+    },
+    {
+      "id": "6380",
+      "name": "Peter England "
+    },
+    {
+      "id": "226a",
+      "name": "LEVI'S"
+    },
+    {
+      "id": "8223",
+      "name": "JACK & JONES"
+    },
+    {
+      "id": "809a",
+      "name": "U.S. POLO "
+    },
+    {
+      "id": "5a8d",
+      "name": "TOMMY HILFIGER"
+    },
+    {
+      "id": "dc24",
+      "name": "Roadster"
+    },
+    {
+      "id": "b805",
+      "name": "WROGN"
+    },
+    {
+      "id": "156f",
+      "name": "RED CHIEF"
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "id": "f6f8",
+      "name": "Gucci"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 0
+    }
+  ],
+  "contactus": [
+    {
+      "id": 0
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 0
+    }
+  ]
+}
